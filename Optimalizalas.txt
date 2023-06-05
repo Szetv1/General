@@ -2,4 +2,4 @@ kikapcsolt programok:
 intelligen háttészolgáltatás
 windows update
 Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DoSvc\Start át lett írva 3-ról 4-re
-net stop dosvc
+net stop dosvc 
