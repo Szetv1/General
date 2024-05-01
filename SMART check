@@ -1,0 +1,2 @@
+Administratorkent futtatva a cmd-t: wmic /namespace:\\root\wmi path MSStorageDriver_FailurePredictStatus
+- || - powershellt-t: Get-WmiObject -namespace root\wmi -class MSStorageDriver_FailurePredictStatus
